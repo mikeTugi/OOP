@@ -1,13 +1,13 @@
 # OOP
-# 🏋️‍♂️ Java Assignment: Concrete Class, Abstract Class, and Interface
+#  Java Assignment: Concrete Class, Abstract Class, and Interface
 
-## 📌 Overview
+##  Overview
 This Java project demonstrates the differences between **Concrete Classes, Abstract Classes, and Interfaces** using a **Calisthenics-based Exercise System**.  
 Each class represents an **exercise**, showcasing how Object-Oriented Programming (OOP) principles are applied in Java.
 
 ---
 
-## 📌 Project Structure
+##  Project Structure
 ```bash
 📂 CalisthenicsApp/
 │── 📄 CalisthenicsExercise.java   # Abstract Class (Base Exercise)
